@@ -15,12 +15,12 @@ export default function Home(){
     
      
      
-     <p className='text-white font-bold text-5xl '>Hey i'm</p> <p className="text-red-950 text-4xl">Muhammad Yaseen</p> 
+     <p className='text-white font-bold text-5xl '>Hey i am</p> <p className="text-red-950 text-4xl">Muhammad Yaseen</p> 
      <Image className='w-[350px] h-80px float-right' src={pic}  alt="Responsive image" ></Image> 
      <h1 className='text-white text-2xl'>Fronted Developer</h1>
      
      <br />
-     <h1 className='text-white'>Hey i am Fronted Developer from pakistan dedicated to delivering beautiful, functional and user-friendly websites that exceed your expectations.</h1>
+     <h1 className='text-white'>Hey i am Fronted Developer from pakistan dedicated to delivering beautiful functional and user-friendly websites that exceed your expectations.</h1>
      
       
 
