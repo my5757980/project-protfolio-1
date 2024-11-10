@@ -20,7 +20,7 @@ export default function Home(){
      <h1 className='text-white text-2xl'>Fronted Developer</h1>
      
      <br />
-     <h1 className='text-white'>Hey i'm Fronted Developer from pakistan dedicated to delivering beautiful, functional and user-friendly websites that exceed your expectations.</h1>
+     <h1 className='text-white'>Hey i am Fronted Developer from pakistan dedicated to delivering beautiful, functional and user-friendly websites that exceed your expectations.</h1>
      
       
 
